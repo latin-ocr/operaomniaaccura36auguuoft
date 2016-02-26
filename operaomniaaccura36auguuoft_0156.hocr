@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaaccura36auguuoft/operaomniaaccura36auguuoft_0156.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 372 2830 393 3206">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 372 2830 393 3206">
+     <span class='ocr_line' id='line_1_1' title="bbox 372 2830 393 3206; baseline -94 94"><span class='ocrx_word' id='word_1_1' title='bbox 372 2830 393 3206; x_wconf 43' lang='lat' dir='ltr'><em>,2..:....⁴Iae...m.as..„...</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 347 896 386 1665">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 347 896 386 1665">
+     <span class='ocr_line' id='line_1_2' title="bbox 347 896 386 1665; baseline 76.9 -1076.6"><span class='ocrx_word' id='word_1_2' title='bbox 347 896 385 1451; x_wconf 39' lang='grc' dir='ltr'><em>ωῒωῧψψῖἲψῖῢη...ψῒῖιψ,ἒξ-,μᾷ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 356 1463 384 1533; x_wconf 46' lang='lat' dir='ltr'><em>IL„-</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 356 1546 386 1632; x_wconf 48' lang='lat' dir='ltr'><em>ZYY.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 361 1645 383 1665; x_wconf 89' lang='lat'>....</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2912 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2912 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2912 4368"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2912 4368; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
